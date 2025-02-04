@@ -1,4 +1,4 @@
-#Power BI Report Overview
+# Power BI Report Overview
 
 ## Table of Contents
 - [Introduction](#introduction)
